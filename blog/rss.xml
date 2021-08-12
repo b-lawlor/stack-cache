@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Stack Cache Blog</title>
+        <link>https://brendanlawlor.github.io/blog</link>
+        <description>Stack Cache Blog</description>
+        <lastBuildDate>Thu, 29 Jul 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Welcome to Stack Cache]]></title>
+            <link>https://brendanlawlor.github.io/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Thu, 29 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[1. a pile of objects, typically one that is neatly arranged]]></description>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstack_cache=self.webpackChunkstack_cache||[]).push([[710],{4563:function(s){s.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"docs-as-code","name":"docs as code","count":1,"permalink":"/blog/tags/docs-as-code"}')}}]);

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://brendanlawlor.github.io/blog</id>
+    <title>Stack Cache Blog</title>
+    <updated>2021-07-29T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://brendanlawlor.github.io/blog"/>
+    <subtitle>Stack Cache Blog</subtitle>
+    <icon>https://brendanlawlor.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome to Stack Cache]]></title>
+        <id>welcome</id>
+        <link href="https://brendanlawlor.github.io/blog/welcome"/>
+        <updated>2021-07-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[1. a pile of objects, typically one that is neatly arranged]]></summary>
+    </entry>
+</feed>
